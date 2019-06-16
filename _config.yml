@@ -22,23 +22,19 @@ copyright: # the copyright text in the footer, could be richtext
 # There are also some special link items representing in string: 'categories', 'tags' and 'archives'
 nav:
   -
-    - categories # display a collapsible category list
-    - tags       # display a collapsible tag list
-    - archives   # display a collapsible archive list
-  -
-    -
-      name: Homepage
-      url: '/'
-    -
-      name: By Year
-      url: /archives
-  -
     -
       name: Github
       url: https://github.com/mutaphore
     -
-      name: RSS
-      url: /atom.xml
+      name: LinkedIn
+      url: https://www.linkedin.com/in/dewei-chen-1524aba
+    -
+      name: Homepage
+      url: "http://mutaphore.github.io"
+  -
+    - categories # display a collapsible category list
+    - tags       # display a collapsible tag list
+    - archives   # display a collapsible archive list
 
 # duoshuo shortname
 # refer to http://duoshuo.com
